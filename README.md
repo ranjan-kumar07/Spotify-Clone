@@ -20,7 +20,7 @@ This project replicates the UI of Spotify’s web player with a modern, responsi
 ---
 
 ## 📸 Screenshots
-![Spotify Clone Preview](pics/spotify.png)
+![Spotify Clone Preview](spotify.png)
 
 ---
 
