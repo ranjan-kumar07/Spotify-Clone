@@ -20,7 +20,7 @@ This project replicates the UI of Spotify’s web player with a modern, responsi
 ---
 
 ## 📸 Screenshots
-![Spotify Clone Preview](./pics/spotify.png)
+![Spotify Clone Preview](pics/spotify.png)
 
 ---
 
@@ -30,3 +30,7 @@ spotify-clone/
 │── style.css
 │── /images
 └── README.md
+
+## 🌐 Live Demo
+🔗 [View Demo](https://ranjan-kumar07.github.io/Spotify-Clone/)  
+
